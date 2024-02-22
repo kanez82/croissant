@@ -14,5 +14,11 @@ p{
 footer{
     text-align: center;
     display: block;
-    word-spacing: 30px;
+    word-spacing: 20px;
+}
+.croissant-photo{
+    display: block;
+    max-width: 100%;
+    margin: 20px;
+    border-radius: 10px;
 }
