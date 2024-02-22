@@ -11,3 +11,8 @@ p{
    margin-top: 5px; 
    text-align: center;
 }
+footer{
+    text-align: center;
+    display: block;
+    word-spacing: 30px;
+}
